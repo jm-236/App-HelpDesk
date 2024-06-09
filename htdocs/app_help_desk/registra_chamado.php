@@ -10,7 +10,7 @@
     echo $texto;
 
     // abretura do arquivo
-    $arquivo = fopen('../../app_help_desk/arquivo.txt', 'a');
+    $arquivo = fopen('../../scripts_ocultos/arquivo.txt', 'a');
     // store do texto no arquivo
     fwrite($arquivo, $texto);
     // fechamento do arquivo

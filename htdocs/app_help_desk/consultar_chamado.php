@@ -1,7 +1,7 @@
 <?php
     require_once "validador_acesso.php";
 
-    $arquivo = fopen('../../app_help_desk/arquivo.txt', 'r');
+    $arquivo = fopen('../../scripts_ocultos/arquivo.txt', 'r');
 
 ?>
 

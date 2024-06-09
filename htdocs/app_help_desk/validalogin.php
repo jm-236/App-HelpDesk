@@ -1,3 +1,3 @@
 <?php
-    require "../../app_help_desk/validalogin.php";
+    require "../../scripts_ocultos/validalogin.php";
 ?>
